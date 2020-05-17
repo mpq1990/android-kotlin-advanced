@@ -1,0 +1,36 @@
+[submodule "ClippingExampleAndroid"]
+	path = ClippingExampleAndroid
+	url = git@github.com:mpq1990/ClippingExampleAndroid.git
+[submodule "CustomFanController"]
+	path = CustomFanController
+	url = git@github.com:mpq1990/CustomFanController.git
+[submodule "FindMe"]
+	path = FindMe
+	url = git@github.com:mpq1990/FindMe.git
+[submodule "Wander"]
+	path = Wander
+	url = git@github.com:mpq1990/Wander.git
+[submodule "android-kotlin-animation-property-animation"]
+	path = android-kotlin-animation-property-animation
+	url = git@github.com:mpq1990/android-kotlin-animation-property-animation.git
+[submodule "android-kotlin-drawing-custom-views"]
+	path = android-kotlin-drawing-custom-views
+	url = git@github.com:mpq1990/android-kotlin-drawing-custom-views
+[submodule "android-kotlin-geo-fences"]
+	path = android-kotlin-geo-fences
+	url = git@github.com:mpq1990/android-kotlin-geo-fences.git
+[submodule "android-kotlin-login-codelab"]
+	path = android-kotlin-login-codelab
+	url = git@github.com:mpq1990/android-kotlin-login-codelab.git
+[submodule "android-kotlin-notifications"]
+	path = android-kotlin-notifications
+	url = git@github.com:mpq1990/android-kotlin-notifications.git
+[submodule "android-kotlin-notifications-fcm"]
+	path = android-kotlin-notifications-fcm
+	url = git@github.com:mpq1990/android-kotlin-notifications-fcm.git
+[submodule "android-testing"]
+	path = android-testing
+	url = git@github.com:mpq1990/android-testing.git
+[submodule "motionlayout"]
+	path = motionlayout
+	url = git@github.com:mpq1990/motionlayout.git
