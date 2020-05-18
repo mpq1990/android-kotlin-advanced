@@ -37,3 +37,6 @@
 [submodule "MiniPaint-advanced-android-codelab"]
 	path = MiniPaint-advanced-android-codelab
 	url = git@github.com:mpq1990/MiniPaint-advanced-android-codelab.git
+[submodule "android-paging"]
+	path = android-paging
+	url = git@github.com:mpq1990/android-paging.git
